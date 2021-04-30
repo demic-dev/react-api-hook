@@ -19,7 +19,15 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react hooks",
+    "hooks",
+    "api",
+    "rest",
+    "typescript",
+    "javascript"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
