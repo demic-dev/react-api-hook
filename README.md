@@ -1,4 +1,4 @@
-# react-fetch-api-hook
+# react-api-hook
 
 
 This package was created to simplify the handling of REST calls in React.
