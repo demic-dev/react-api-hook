@@ -1,0 +1,29 @@
+{
+  "name": "react-api-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demic-dev/react-api-hook.git"
+  },
+  "peerDependencies": {
+    "react": ">16.8.0",
+    "react-dom": ">16.8.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demic-dev/react-api-hook/issues"
+  },
+  "homepage": "https://github.com/demic-dev/react-api-hook#readme"
+}
