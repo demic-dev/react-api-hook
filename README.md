@@ -1,7 +1,7 @@
 # react-api-hook
 
 
-This package was created to simplify the handling of REST calls in React.
+###### This package was created to simplify the handling of REST calls in React.
 
 To use this package, simply declare it in the component, inserting the endpoint and possible configurations (headers, body, etc.) and call it with the appropriate sendRequest function.
 
@@ -33,7 +33,9 @@ _data_ and _error_ respectively.
 | data | Response | The received response. You can parse using json() function |
 | error | any | Information about the catched error. |
 
-Example:  
+
+
+### Example:  
 
     import React,  {  useEffect  }  from  "react";
     import useAPIHook from  "react-api-hook";
