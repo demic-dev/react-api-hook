@@ -60,7 +60,7 @@ function fetchReducer(state: StateType, action: ActionType): StateType {
         status: "canceled",
       };
     default:
-      return state;
+      throw new Error("Unrecognized type.");
   }
 }
 
